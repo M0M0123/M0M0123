@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M0M0123
-- 👀 I’m interested in eye tracking technology and well being
+- 👀 I’m interested in eye tracking technology and writing assistance
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on leveraging eye tracking for improving well being and productivity
+- 💞️ I’m looking to collaborate on leveraging eye tracking
 - 📫 How to reach me moritz.langner@kit.edu
 
 <!---
